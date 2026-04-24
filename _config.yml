@@ -83,7 +83,7 @@ defaults:
 encoding: utf-8
 lang: es-CL
 title: "ISU"
-description: 'Sitio creado como tarea del curso "Introducción al prototipado de bioinstrumentación", dictado por Tobías Wenzel.'
+description: 'Sitio creado como tarea del curso "Introducción al prototipado de bioinstrumentación", dictado por Tobias Wenzel.'
 url: "https://isus418.github.io"
 baseurl: ""
 repo: "https://github.com/isus418/isus418.github.io"
