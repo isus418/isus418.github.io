@@ -7,13 +7,15 @@ feature_image: /assets/Image.jpg
 aside: true
 ---
 
-![Foto](/assets/IMG_5804.jpeg){: width="100" style="border-radius: 100%; float: left; margin-right: 20px;"}
+![Foto](/assets/IMG_5804.jpeg){: width="180" style="border-radius: 8px; float: left; margin-right: 25px; margin-bottom: 10px;"}
 
 ## Sobre mí
 
 Soy Licenciada en Física con especial interés en el área de **Física Médica**. He realizado investigación en **terapia fotodinámica (PDT)**, **radioterapia** y **radiorresistencia**, enfocadas principalmente en la línea celular **U-251 (glioblastoma)**.
 
 Manejo técnicas de cultivo celular, uso de instrumentos de laboratorio, protocolos de trabajo y análisis de resultados. Me caracterizo por la puntualidad, responsabilidad, capacidad de liderazgo y participación activa en actividades extracurriculares.
+
+<div style="clear: both;"></div>
 
 ## Intereses de investigación
 
