@@ -6,6 +6,8 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=1043"
 aside: true
 ---
+![Gatito](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ5cHlkbHIzejgwMjE4NTZwbWVyNTRmZTk1MWJwcnlreXFkeWYzeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iNQ2cIve8rUqI/giphy.gif
+){: style="display: block; margin: 0 auto; border-radius: 8px; max-width: 300px;"}
 
 ## Trabajo de laboratorio — PDT con azul de metileno en U-251
 **Diciembre 2023 – Julio 2025** · Santiago, Chile
