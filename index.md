@@ -7,7 +7,7 @@ feature_image: /assets/Image.jpg
 aside: true
 ---
 
-![Foto](/assets/IMG_5804.jpeg){: width="180" style="border-radius: 8px; float: left; margin-right: 25px; margin-bottom: 10px;"}
+![Foto]([/assets/IMG_5804.jpeg](https://tenor.com/GXUb.gif)){: style="display: block; margin: 0 auto; border-radius: 8px; max-width: 300px;"}
 
 ## Sobre mí
 
