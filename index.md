@@ -1,5 +1,5 @@
 ---
-title: Tarea Introducción al prototipado de Bioinstrumentación - IBM2027
+title: Tarea IBM2027
 feature_text: |
   ## Isidora Saavedra Urrea
   Licenciada en Física ⚛ · Estudiante de Magíster en Física Médica ☢
