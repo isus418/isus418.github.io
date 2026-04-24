@@ -3,7 +3,7 @@ title: Inicio
 feature_text: |
   ## Isidora Saavedra Urrea
   Licenciada en Física · Estudiante de Magíster en Física Médica
-feature_image: /assets/IMG_5804.jpeg
+feature_image: /assets/Image.jpeg
 aside: true
 ---
 
