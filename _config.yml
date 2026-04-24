@@ -100,14 +100,13 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
-title: "Tarea de Introducción al prototipado de bioinstrumentación" # Site name or title, also used in jekyll-seo-tag
+lang: es-CL # Set the site language 
+title: "ISU" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "En este curso se permitira a los y las estudiantes desarrollar habilidades practicas para dise?ar y construir prototipos en ingenieria (hardware). El curso cubre los fundamentos practicos de la fabricacion digital moderna, la integracion de la electronica, la mecanica y la optica, y la automatizacion para la bioinstrumentacion libre. Para el aprendizaje practico, cada estudiante creara e imprimira un objeto en 3D, manipulara un prototipo de bomba de jeringa y aprendera sobre el control de flujo en un chip microfluidico. Ademas, seran capaces de encontrar recursos para la creacion de prototipos, como encargar archivos, documentar abiertamente y colaborar con otros creadores en linea. La metodologia de aprendizaje, considera conferencias, ejercicios e investigacion abierta. La evaluacion se basara en presentaciones, ejercicios de creacion de prototipos y cuestionarios. " # Site description and default description, also used in jekyll-seo-tag
-url: "https://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=programa&sigla=ibm2027" # Site url, also used in jekyll-seo-tag
+description: "Sitio creado como tarea del curso "Introducción al prototipado de bioinstrumentación", dictado por tobias Wenzel." # Site description and default description, also used in jekyll-seo-tag
+url: "https://isus418.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://isus418/isus418.github.io"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
