@@ -1,8 +1,8 @@
 ---
 title: Inicio
 feature_text: |
-  ## Tu Nombre
-  Licenciada en Física · Física Médica
+  ## Isidora Saavedra Urrea
+  Licenciada en Física · Estudiante de Magíster en Física Médica
 feature_image: "https://picsum.photos/1300/400?image=989"
 aside: true
 ---
