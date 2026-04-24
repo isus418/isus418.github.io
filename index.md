@@ -7,7 +7,7 @@ feature_image: /assets/Image.jpg
 aside: true
 ---
 
-![Foto](/assets/IMG_5804.jpeg){: width="180" style="border-radius: 50%; float: left; margin-right: 20px;"}
+![Foto](/assets/IMG_5804.jpeg){: width="100" style="border-radius: 100%; float: left; margin-right: 20px;"}
 
 ## Sobre mí
 
