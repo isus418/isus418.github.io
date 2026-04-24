@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 aside: true
 ---
 
-![Foto](/assets/IMG_5804.jpg){: width="180" style="border-radius: 50%; float: left; margin-right: 20px;"}
+![Foto](/assets/IMG_5804.jpeg){: width="180" style="border-radius: 50%; float: left; margin-right: 20px;"}
 
 ## Sobre mí
 
