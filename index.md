@@ -25,9 +25,9 @@ Manejo técnicas de cultivo celular, uso de instrumentos de laboratorio, protoco
 - **Diseño experimental** en cultivo celular y modelos de hipoxia tumoral
 - Combinación de tratamientos para superar la resistencia tumoral
 
-## Un gatito para alegrar el día 🐱
+## Yop haciendo la tarea
 
-![Gatito](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif){: style="display: block; margin: 0 auto; border-radius: 8px; max-width: 300px;"}
+![Gatito]([https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBlaHc2OTVjZjN0OG11MjdxNjMzdmFlbnF1dzgwZnZncGp3ZTVydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SLxiqHQ8w6bVfK2Svl/giphy.gif)){: style="display: block; margin: 0 auto; border-radius: 8px; max-width: 300px;"}
 
 ## Explora más
 
