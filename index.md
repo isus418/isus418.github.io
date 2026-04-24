@@ -2,21 +2,28 @@
 title: Inicio
 feature_text: |
   ## Tu Nombre
-  Estudiante de Ingeniería Biomédica
+  Licenciada en Física · Física Médica
 feature_image: "https://picsum.photos/1300/400?image=989"
 aside: true
 ---
 
-![Mi foto](https://github.com/tuusuario.png){: width="200" style="border-radius: 50%;"}
+![Mi foto](https://github.com/tuusuario.png){: width="200" style="border-radius: 50%; display: block; margin: 0 auto;"}
 
 ## Sobre mí
-Soy estudiante de Ingeniería Biomédica en la Universidad X. Me apasiona combinar ingeniería y salud para desarrollar soluciones que mejoren la vida de las personas.
+
+Soy Licenciada en Física con especial interés en el área de **Física Médica**. He realizado investigación en **terapia fotodinámica (PDT)**, **radioterapia** y **radiorresistencia**, enfocadas principalmente en la línea celular **U-251 (glioblastoma)**.
+
+Manejo técnicas de cultivo celular, uso de instrumentos de laboratorio, protocolos de trabajo y análisis de resultados. Me caracterizo por la puntualidad, responsabilidad, capacidad de liderazgo y participación activa en actividades extracurriculares.
 
 ## Intereses de investigación
-- Instrumentación biomédica y hardware abierto
-- Procesamiento de señales fisiológicas
-- Dispositivos médicos de bajo costo para contextos de recursos limitados
-- Inteligencia artificial aplicada a diagnóstico
 
-## Contacto
-Puedes encontrarme en GitHub como [@tuusuario](https://github.com/tuusuario).
+- **Terapia fotodinámica (PDT)** y fotosensibilizadores en líneas celulares tumorales
+- **Radioterapia y radiorresistencia** en modelos celulares de glioblastoma (U-251) y cáncer de mama (MCF-7)
+- **Dosimetría termoluminiscente** y control de calidad en radioterapia
+- **Diseño experimental** en cultivo celular y modelos de hipoxia tumoral
+- Combinación de tratamientos para superar la resistencia tumoral
+
+## Explora más
+
+{% include button.html text="Mi experiencia" link="/experiencia" color="#0366d6" %}
+{% include button.html text="GitHub" link="https://github.com/tuusuario" icon="github" %}
