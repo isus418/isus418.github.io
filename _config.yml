@@ -41,12 +41,11 @@ plugins:
 paginate: 2
 paginate_path: blog/page:num
 jekyll-mentions: https://twitter.com
-author: Tu Nombre
+author: Isidora Saavedra Urrea
 social:
-  name: Tu Nombre Completo
+  name: Isidora Saavedra Urrea
   links:
     - https://github.com/isus418
-    # - https://www.linkedin.com/in/tu-perfil
 
 # 4. Jekyll settings
 sass:
@@ -88,12 +87,11 @@ description: 'Sitio creado como tarea del curso "Introducción al prototipado de
 url: "https://isus418.github.io"
 baseurl: ""
 repo: "https://github.com/isus418/isus418.github.io"
-css_inline: true
+css_inline: false
 
 # 8. Site favicons & manifest icons
 # favicons:
 #   16: '/assets/logos/logo@16px.png'
-#   32: '/assets/logos/logo@32px.png'
 
 # 9. Site navigation
 navigation_header:
@@ -103,13 +101,13 @@ navigation_header:
     url: /experiencia
 
 navigation_footer:
-- title: Creado por Tu Nombre · 2026
+- title: Creado por Isidora Saavedra · 2026
   url: https://isus418.github.io
+- title: Tema Alembic por David Darnes
+  url: https://alembic.darn.es
 
 social_links:
   GitHub: https://github.com/isus418
-  # LinkedIn: https://www.linkedin.com/in/tu-perfil
-  RSS: /feed.xml
 
 sharing_links:
   Twitter: "#0d94e7"
