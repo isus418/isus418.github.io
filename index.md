@@ -7,7 +7,7 @@ feature_image: /assets/Image.jpg
 aside: true
 ---
 
-![Foto](https://tenor.com/GXUb.gif){: style="display: block; margin: 0 auto; border-radius: 8px; max-width: 300px;"}
+![Foto](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBxdW1uejhjcGRkMng1MDA0djFndjhqMjlsZG1teW1zb2ozMHdvciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif){: style="display: block; margin: 0 auto; border-radius: 8px; max-width: 300px;"}
 
 ## Sobre mí
 
