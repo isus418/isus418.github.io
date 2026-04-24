@@ -103,7 +103,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: es-CL # Set the site language 
 title: "ISU" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Sitio creado como tarea del curso "Introducción al prototipado de bioinstrumentación", dictado por tobias Wenzel." # Site description and default description, also used in jekyll-seo-tag
+description: "Sitio creado como tarea del curso Introducción al prototipado de bioinstrumentación, dictado por tobias Wenzel." # Site description and default description, also used in jekyll-seo-tag
 url: "https://isus418.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://isus418/isus418.github.io"
