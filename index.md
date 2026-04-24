@@ -26,4 +26,4 @@ Manejo técnicas de cultivo celular, uso de instrumentos de laboratorio, protoco
 ## Explora más
 
 {% include button.html text="Mi experiencia" link="/experiencia" color="#0366d6" %}
-{% include button.html text="GitHub" link="https://github.com/tuusuario" icon="github" %}
+{% include button.html text="GitHub" link="https://github.com/isus418" icon="github" %}
