@@ -1,0 +1,40 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// ==========================================
+// Ajustes personalizados ANTES del tema
+// ==========================================
+
+// Tamaño base de fuente más pequeño (Alembic por defecto es muy grande)
+$responsive-font-sizes: (
+  0: 16,
+  40: 17,
+  80: 18,
+  100: 19
+) !default;
+
+// Importar el tema Alembic
+@import "alembic";
+
+// ==========================================
+// Ajustes personalizados DESPUÉS del tema
+// ==========================================
+
+// Justificar el texto en párrafos
+p {
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+}
+
+// Reducir un poco el tamaño del contenido principal
+.content {
+  font-size: 0.95em;
+}
+
+// Opcional: reducir títulos si aún se ven grandes
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.25em; }
