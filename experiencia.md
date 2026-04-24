@@ -3,7 +3,7 @@ title: Experiencia
 feature_text: |
   ## Experiencia en laboratorio
   Investigación en Física Médica
-feature_image: "https://picsum.photos/1300/400?image=1043"
+feature_image: "(https://media.istockphoto.com/id/1173385629/es/foto/un-cient%C3%ADfico-que-cultiva-c%C3%A9lulas-y-el-medio-de-crecimiento-de-pipeteo-en-un-plato-de-petri-y.jpg?s=612x612&w=is&k=20&c=oaLqiNxXLw-jwBDuAn1vLZ5V8bUHRf9vo4eZZwIxLaI=)"
 aside: true
 ---
 ![Gatito](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ5cHlkbHIzejgwMjE4NTZwbWVyNTRmZTk1MWJwcnlreXFkeWYzeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iNQ2cIve8rUqI/giphy.gif
